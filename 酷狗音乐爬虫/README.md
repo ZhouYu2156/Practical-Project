@@ -240,7 +240,7 @@ def get_search_music_list(kw="刀郎", page=1, pagesize=30):
     return json.loads(result[0]).get('data').get('lists')
 ```
 
-> 项目代码: [访问我的github仓库](https://github.com/ZhouYu2156/KuGou-Music-Spider)
+> 项目代码: [访问我的github仓库](https://github.com/ZhouYu2156/Practical-Project/)
 
 
 
