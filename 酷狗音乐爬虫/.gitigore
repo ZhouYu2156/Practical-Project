@@ -1,0 +1,6 @@
+
+static/
+**/static/musics
+.idea
+.vscode
+
